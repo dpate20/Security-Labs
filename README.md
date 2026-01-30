@@ -13,11 +13,3 @@ Welcome to my **Security Labs** repository — a growing collection of hands-on 
 | Lab 01 | Security Onion Paper | [`reports/security-onion-paper.pdf`](reports/security-onion-paper.pdf) |
 
 ---
-
-## 📂 Repo Structure
-
-```text
-security-labs/
-├── README.md
-└── reports/
-    └── security-onion-paper.pdf
