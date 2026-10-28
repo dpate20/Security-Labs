@@ -61,35 +61,6 @@ This section contains academic research reviews and technical papers exploring e
 
 ---
 
-## 📁 Repository Structure
-
-```text
-Security-Labs/
-│
-├── README.md
-│
-├── labs/
-│   ├── 01-wireshark-traffic-analysis/
-│   │   └── README.md
-│   │
-│   ├── 02-scapy-packet-crafting/
-│   │   └── README.md
-│   │
-│   └── 03-snort-intrusion-detection/
-│       ├── README.md
-│       └── local.rules
-│
-├── research/
-│   ├── resolverfuzz-review.md
-│   └── pointerguess-review.md
-│
-└── reports/
-    ├── security-onion-paper.pdf
-    └── ERF PAPER - Network Monitoring.pdf
-```
-
----
-
 ## 🎯 Learning Objectives
 
 Through these labs and research projects, I aim to:
