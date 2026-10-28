@@ -40,8 +40,8 @@ This section contains academic research reviews and technical papers exploring e
 |---|---|---|---|
 | Security Onion | Security Monitoring & Network Visibility | Explores Security Onion and its use for investigating network telemetry, security events, and alerts using network monitoring technologies. | [View PDF](reports/security-onion-paper.pdf) |
 | Network Monitoring and its Role in Protecting CIA | Network Security, CIA Triad, Privacy & Governance | Research proposal examining how network monitoring supports confidentiality, integrity, and availability while addressing intrusion detection limitations, monitoring-system evasion, employee privacy, and differences between IT and OT environments. Proposes a conceptual framework balancing security effectiveness, privacy governance, and monitoring resilience. | [View PDF](reports/ERFPAPER_Proposal.pdf) |
-| ResolverFuzz | DNS Security & Vulnerability Research | Reviews research on DNS resolver fuzzing, differential testing, and the discovery of vulnerabilities in DNS implementations. | [Read Review](research/resolverfuzz-review.md) |
-| PointerGuess | Password Security & Machine Learning | Reviews research on targeted password guessing and vulnerabilities associated with password reuse and modification patterns. | [Read Review](research/pointerguess-review.md) |
+| ResolverFuzz | DNS Security & Vulnerability Research | Reviews research on DNS resolver fuzzing, differential testing, and the discovery of vulnerabilities in DNS implementations. | [Read Review](reports/ResolverFuzz_article.pdf) |
+| PointerGuess | Password Security & Machine Learning | Reviews research on targeted password guessing and vulnerabilities associated with password reuse and modification patterns. | [Read Review](reports/PointerGuess_article.pdf) |
 
 *Research reviews analyze published work and do not represent independent implementations of the research tools.*
 
