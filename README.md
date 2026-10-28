@@ -19,7 +19,7 @@ The goal is to demonstrate my technical skills, document my learning process, an
 | Lab | Topic | Tools & Technologies | Description | Documentation |
 |---|---|---|---|---|
 | Lab 01 | Network Traffic Analysis | Wireshark, DNS, HTTP, TCP/IP | Analyzed captured network traffic to identify DNS queries, HTTP requests, destination IP addresses, and web server information. | [View Lab](reports/Lab_01_Wireshark.pdf) |
-| Lab 02 | Network Packet Crafting | Python, Scapy, Kali Linux | Developed a Python script to construct DNS queries, ICMP echo requests, and TCP SYN packets to explore network communication at the packet level. | [View Lab](labs/02-scapy-packet-crafting/README.md) |
+| Lab 02 | Network Packet Crafting | Python, Scapy, Kali Linux | Developed a Python script to construct DNS queries, ICMP echo requests, and TCP SYN packets to explore network communication at the packet level. | [View Lab](reports/Lab_02_NetworkPackets.pdf) |
 | Lab 03 | Intrusion Detection with Snort | Snort, Kali Linux, TCP/IP | Configured custom Snort intrusion detection rules to identify HTTP/HTTPS traffic patterns and examined generated security alerts. | [View Lab](labs/03-snort-intrusion-detection/README.md) |
 
 ### Key Skills Demonstrated
